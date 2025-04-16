@@ -1,2 +1,2 @@
-# test
-this is a test repo
+# Test
+This is a test repo
