@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .text-gradient {
+    @apply bg-gradient-to-r from-xform-blue-dark to-xform-purple bg-clip-text text-transparent;
+  }
+}
